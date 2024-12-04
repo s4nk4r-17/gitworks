@@ -1,2 +1,11 @@
 >git clone [exact copy from remote repository to localworkspace]
 
+>git push [localrepository changes to remote repository]
+
+>git pull [changes from remote repository to localworkspace]
+
+>git add -A [adding all untracked files to staging Area]
+
+>git commit -m "commit message" [staged files => localrepository]
+
+>git init [for initializing git repository]
