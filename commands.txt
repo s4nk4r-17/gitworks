@@ -9,3 +9,9 @@
 >git commit -m "commit message" [staged files => localrepository]
 
 >git init [for initializing git repository]
+
+>git config --list[to list configuration]
+ 
+>git config --global user.name "username" [to add username]
+
+>git config --global user.email "useremail" [to add useremail]
